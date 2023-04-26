@@ -19,4 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
+[<img height="200" src="https://github.com/duartealex1/home-page-Spotify/blob/main/img/logo.png"  />](https://duartealex1.github.io/home-page-Spotify/)
+
 ###
